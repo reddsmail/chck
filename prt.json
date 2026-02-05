@@ -11,6 +11,12 @@
             "name": "TITAN",
             "url": "http://p117833.titansystem.xyz:8080/",
             "enabled": true
+        },
+{
+            "id": 2,
+            "name": "SOMINE",
+            "url": "http://plus.tinyurl-plus.com:8080/",
+            "enabled": true
         }
     ]
 }
