@@ -1,0 +1,10 @@
+{
+    "portals": [
+        {
+            "id": 0,
+            "name": "TIVI ONE",
+            "url": "http://line.tivi-ott.net",
+            "enabled": true
+        }
+    ]
+}
