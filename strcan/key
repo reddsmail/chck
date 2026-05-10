@@ -1,0 +1,14 @@
+[
+  {
+    "id": "d07968b77c624ee5",
+    "key": "star",
+    "expiresAt": "30-05-2027",
+    "allowOffline": true
+  },
+  {
+    "id": "d07968b77c624ee5",
+    "key": "net",
+    "expiresAt": "15-06-2025",
+    "allowOffline": false
+  }
+]
