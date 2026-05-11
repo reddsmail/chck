@@ -3,7 +3,7 @@
     "id": "d07968b77c624ee5",
     "key": "star",
     "expiresAt": "2027-05-30",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "d07968b77c624ee5",
